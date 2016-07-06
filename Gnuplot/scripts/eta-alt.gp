@@ -18,7 +18,7 @@ set zeroaxis lw 1 lt 2 lc 0
 #######   THREE IN ONE PLOT 
 set xrange [0.7:1.6]
 # set yrange [-6:5]  
-
+#comentario
 set key title "Component"
 
 set ylabel "{{\\Large $\\eta^{axy}(\\omega)$} {\\small $[\\times 10^{10}]$ }}"
