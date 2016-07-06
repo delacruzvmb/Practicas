@@ -1,0 +1,7 @@
+\documentclass {standalone}
+\thispagestyle{empty}
+\begin{document}
+\pagestyle{empty}
+Hola mundo
+Adi\'os mundo  @no se ve
+\end{document}

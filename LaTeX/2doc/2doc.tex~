@@ -1,0 +1,15 @@
+\documentclass{article}
+\usepackage {amsmath}
+\title {Segundo documento de \LaTeX}
+\author {Marcela De La Cruz}
+\date {\today}
+\begin {document}
+\maketitle
+Segundo documento de LaTeX 
+
+
+\section{Primera ecuaci\'on}
+Entorno de ecuaci\'on dentro de la l\'inea de texto: $\sum^{\infty}_{n=1}$
+con el s\'imbolo \^\ se escriben los super\'indices y con \_ los sub\'indices
+
+\end{document}
